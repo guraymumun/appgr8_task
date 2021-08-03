@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AppGr8</string>
+    <string name="title_activity_bottom_navigation">BottomNavigationActivity</string>
+    <string name="title_images">Images</string>
+    <string name="title_numbers">Numbers</string>
+    <string name="title_activity_single_image">SingleImageActivity</string>
+    <string name="search">Search</string>
+    <string name="search_number">Enter a number</string>
+    <string name="find_number_result_text">To find number \"%d\", %d iterations were used!</string>
+    <string name="number_not_found">The entered number not found!</string>
+    <string name="enter_valid_number">Please enter a valid number!</string>
+</resources>
